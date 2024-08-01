@@ -1,0 +1,20 @@
+<svg width="235" height="236" viewBox="0 0 235 236" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="dollar-circle">
+<path id="Vector" d="M215.417 118.001C215.417 172.309 171.578 216.335 117.501 216.335C63.4227 216.335 19.584 172.309 19.584 118.001C19.584 63.6933 63.4227 19.668 117.501 19.668C171.578 19.668 215.417 63.6933 215.417 118.001Z" stroke="url(#paint0_linear_2287_26839)" stroke-width="3"/>
+<path id="Vector_2" d="M144.038 98.9325C143.067 91.433 134.493 79.3162 119.075 79.3159C101.16 79.3156 93.6218 89.2797 92.0922 94.2618C89.706 100.926 90.1832 114.626 111.182 116.12C137.43 117.989 147.945 121.1 146.608 137.232C145.269 153.364 130.638 156.85 119.075 156.475C107.511 156.103 88.5916 150.768 87.8574 136.419M117.24 68.8125V79.3516M117.24 156.379V167.145" stroke="url(#paint1_linear_2287_26839)" stroke-width="3" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2287_26839" x1="189.285" y1="115.546" x2="47.2903" y2="115.546" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C4ACF"/>
+<stop offset="0.375" stop-color="#69B7FA"/>
+<stop offset="0.765" stop-color="#FFA96E"/>
+<stop offset="1" stop-color="#FE506F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2287_26839" x1="138.866" y1="116.751" x2="96.1853" y2="116.751" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C4ACF"/>
+<stop offset="0.375" stop-color="#69B7FA"/>
+<stop offset="0.765" stop-color="#FFA96E"/>
+<stop offset="1" stop-color="#FE506F"/>
+</linearGradient>
+</defs>
+</svg>
